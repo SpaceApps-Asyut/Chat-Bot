@@ -1,0 +1,10 @@
+streamlit
+pandas
+langdetect
+deep-translator
+streamlit-cookies-manager
+stanza
+sentence-transformers
+torch
+rapidfuzz
+openpyxl
